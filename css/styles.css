@@ -1,8 +1,28 @@
 body{
-    background-color:#FF5580;
-    color: #FFFF80;
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
+  text-align: center;
+  background-color:#FF5580;
+  color: #FFFF80;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+#boton-pintar{
+  color: #FF5580
+  font-family: "Dancing Script", cursive;
+  background-color: #FFFF80;
+  border-radius: 50px;
+}
+#boton-jugar{
+  color: #FF5580
+  font-family: "Dancing Script", cursive;
+  background-color: #FFFF80;
+  border-radius: 50px;
+}
+#boton-correr{
+  color: #FF5580
+  font-family: "Dancing Script", cursive;
+  background-color: #FFFF80;
+  border-radius: 50px;
 }
